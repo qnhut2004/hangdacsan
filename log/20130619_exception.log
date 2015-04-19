@@ -1,0 +1,7 @@
+*ERROR* 	2013/06/19 - 22:14:24: Property TabClassNoneTab->hook is not valid at line 837 in file classes/ObjectModel.php
+*ERROR* 	2013/06/19 - 22:37:54: Unknown column 'displayhome' in 'where clause'<br /><br /><pre>SELECT ts.`id_tab` FROM `ps_cshometabnonetab_shop` ts
+					LEFT JOIN `ps_cshometabnonetab` t ON (ts.id_tab = t.id_tab)
+					WHERE (ts.id_shop = 1)
+					AND t.`hook` = displayhome
+					AND ts.`display` = 1 ORDER BY ts.`position` ASC
+				</pre> at line 607 in file classes/db/Db.php

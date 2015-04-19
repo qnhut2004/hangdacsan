@@ -1,0 +1,20 @@
+﻿Xin chào {firstname} {lastname},
+
+Cảm ơn bạn đã đăng ký và đặt sản phẩm tại {shop_name}.
+
+Thông tin chi tiết tài khoản :
+
+E-mail : {email}
+Mật khẩu: {passwd}
+ 
+Mời bạn tham quan và đặt sản phẩm tại : {shop_url}
+
+Ghi chú:
+
+* Vì lý do an toàn và bảo mật.
+* Vui lòng giữ kín thông tin cá nhân và đừng chia sẻ tài khoản của bạn.
+* Nên thay đổi mật khẩu nếu thấy cần thiết.
+* Nếu phát hiện ai đó hoặc tài khoản của bạn bị sử dụng trái phép, hãy nhanh chóng liên hệ với chúng tôi.
+
+
+{shop_url} ;

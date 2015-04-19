@@ -1,0 +1,46 @@
+*ERROR* 	2013/06/27 - 05:44:40: Unknown column 'id_option' in 'where clause'<br /><br /><pre>
+				UPDATE `ps_csmegamenu_shop`
+				SET `position` = 0
+				WHERE `id_shop` = 1 AND `id_option` = 2</pre> at line 607 in file classes/db/Db.php
+*ERROR* 	2013/06/27 - 05:44:59: Unknown column 'id_option' in 'where clause'<br /><br /><pre>
+				UPDATE `ps_csmegamenu_shop`
+				SET `position` = 0
+				WHERE `id_shop` = 1 AND `id_option` = 2</pre> at line 607 in file classes/db/Db.php
+*ERROR* 	2013/06/27 - 05:45:44: Unknown column 'id_option' in 'where clause'<br /><br /><pre>
+				UPDATE `ps_csmegamenu_shop`
+				SET `position` = 0
+				WHERE `id_shop` = 1 AND `id_option` = 2</pre> at line 607 in file classes/db/Db.php
+*ERROR* 	2013/06/27 - 05:52:46: Unknown column 'id_option' in 'where clause'<br /><br /><pre>
+				UPDATE `ps_csmegamenu_shop`
+				SET `position` = 0
+				WHERE `id_shop` = 1 AND `id_option` = 3</pre> at line 607 in file classes/db/Db.php
+*ERROR* 	2013/06/27 - 05:54:36: Unknown column 'id_option' in 'where clause'<br /><br /><pre>
+				UPDATE `ps_csmegamenu_shop`
+				SET `position` = 0
+				WHERE `id_shop` = 1 AND `id_option` = 13</pre> at line 607 in file classes/db/Db.php
+*ERROR* 	2013/06/27 - 05:54:59: Unknown column 'id_option' in 'where clause'<br /><br /><pre>
+				UPDATE `ps_csmegamenu_shop`
+				SET `position` = 0
+				WHERE `id_shop` = 1 AND `id_option` = 13</pre> at line 607 in file classes/db/Db.php
+*ERROR* 	2013/06/27 - 05:57:04: Unknown column 'id_option' in 'where clause'<br /><br /><pre>
+				UPDATE `ps_csmegamenu_shop`
+				SET `position` = 0
+				WHERE `id_shop` = 1 AND `id_option` = 2</pre> at line 607 in file classes/db/Db.php
+*ERROR* 	2013/06/27 - 06:06:20: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UPDATE `ps_csmegamenu_option_shop`
+				SET `position_option` = 1
+				WHERE `id_s' at line 4<br /><br /><pre>
+				UPDATE `ps_csmegamenu_option_shop`
+				SET `position_option` = 0
+				WHERE `id_shop` = 1 AND `id_option` = 9
+				UPDATE `ps_csmegamenu_option_shop`
+				SET `position_option` = 1
+				WHERE `id_shop` = 1 AND `id_option` = 10</pre> at line 607 in file classes/db/Db.php
+*ERROR* 	2013/06/27 - 06:07:06: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'UPDATE `ps_csmegamenu_option_shop`
+				SET `position_option` = 1
+				WHERE `id_s' at line 4<br /><br /><pre>
+				UPDATE `ps_csmegamenu_option_shop`
+				SET `position_option` = 0
+				WHERE `id_shop` = 1 AND `id_option` = 10
+				UPDATE `ps_csmegamenu_option_shop`
+				SET `position_option` = 1
+				WHERE `id_shop` = 1 AND `id_option` = 9</pre> at line 607 in file classes/db/Db.php
